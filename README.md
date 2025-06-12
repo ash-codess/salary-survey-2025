@@ -1,4 +1,4 @@
-# 📊 Brent Ozar Salary Survey 2025 - India Analysis 🇮🇳
+# 📊 Brent Ozar Salary Survey - India Analysis 🇮🇳
 
 An exploratory analysis of the 2025 Brent Ozar Salary Survey focused on insights from India using MS SQL Server, DBeaver, and Databricks.
 
