@@ -87,6 +87,9 @@ This visualization provides an India-focused analysis of the 2025 Data Professio
 
 [Databricks dashboard](https://dbc-6421872d-ac6f.cloud.databricks.com/dashboardsv3/01f04792c68910c8a3e4d54416abb531/published?o=3774014382757505&f_89f4f076%7Ea48092b2=%257B%2522columns%2522%253A%255B%2522color%2522%252C%2522x%2522%255D%252C%2522rows%2522%253A%255B%255B%2522Private%2520business%2522%252C%2522Private%2520business%2522%255D%255D%257D)
 
+[Dashboard snip]("https://github.com/user-attachments/assets/36b1e3db-3629-4653-897c-93109a487f7e")
+
+
 ---
 
 ## 🙏 Data Source
